@@ -25,6 +25,10 @@ the greeting defaults to "world".
 cargo test
 ```
 
+## License
+
+Released under the [MIT License](LICENSE).
+
 ## Project layout
 
 - `src/main.rs` — the `greeting` function, `main`, and unit tests
