@@ -1,5 +1,7 @@
 # RustUp
 
+[![CI](https://github.com/mutsucharles-jpg/RustUp/actions/workflows/ci.yml/badge.svg)](https://github.com/mutsucharles-jpg/RustUp/actions/workflows/ci.yml)
+
 A small Rust command-line program that greets you by name.
 
 ## Requirements
