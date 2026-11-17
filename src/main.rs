@@ -1,5 +1,7 @@
 use std::env;
 
+mod lesson2;
+
 /// Builds the greeting, defaulting to "world" when no name is given.
 fn greeting(name: Option<&str>) -> String {
     format!("Hello, {}!", name.unwrap_or("world"))
