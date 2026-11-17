@@ -3,6 +3,7 @@ use std::env;
 mod lesson2;
 mod lesson3;
 mod lesson4;
+mod lesson5;
 
 /// Builds the greeting, defaulting to "world" when no name is given.
 fn greeting(name: Option<&str>) -> String {
